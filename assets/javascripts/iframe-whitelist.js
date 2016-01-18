@@ -7,5 +7,6 @@
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/meta\.looker\.com\/.+/i);
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/metanew\.looker\.com\/.+/i);
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/looker\.com\/.+/i);
+  Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/.*\.looker\.com\/.+/i);
 })();
 
